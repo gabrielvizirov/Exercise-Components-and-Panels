@@ -1,0 +1,36 @@
+.video-card-container {
+	padding: 0px;
+}
+
+.video-card-container .card-header{
+	padding: 5rem;
+	background-color: #0099FF;
+}
+
+.video-card-container .video-card-img{
+	padding: 0rem;
+	margin: 0px;
+	border: none;
+	background-color: #0099FF;
+	height: 12rem;
+	width: 100%;
+}
+
+.video-card-container .card-block{
+	background-color: #444444;
+	text-align: center;
+	padding-bottom: .2rem;
+}
+
+.video-card-container .card-block .video-card-row{
+	
+}
+
+.video-card-container .card-block h4{
+	color: #ffffff;
+}
+
+.video-card-container .card-block p{
+	font-size: .9em;
+	color: #DDDDDD;
+}

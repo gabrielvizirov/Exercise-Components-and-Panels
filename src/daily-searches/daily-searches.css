@@ -1,0 +1,26 @@
+.daily-searches-card {
+	padding: 0;
+	line-height: 0;
+	margin: 0;
+}
+
+.daily-searches-card .card-header{
+	padding-top: 2rem;
+	background-color: #ee4422;
+	color: #FFFFFF;
+}
+
+.daily-searches-card h4{
+	line-height: 1;
+	font-weight: 600;
+}
+
+.daily-searches-card p{
+	line-height: 0;
+	font-size: .9em;
+}
+
+.daily-searches-card .card-block{
+	padding-top: 2rem;
+	padding-bottom: 3rem;
+}

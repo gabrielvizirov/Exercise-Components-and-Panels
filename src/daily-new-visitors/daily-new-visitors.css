@@ -1,0 +1,26 @@
+.daily-new-visitors-card {
+	padding: 0;
+	line-height: 0;
+	margin: 0;
+}
+
+.daily-new-visitors-card .card-header{
+	padding-top: 2rem;
+	background-color: #0099ff;
+	color: #FFFFFF;
+}
+
+.daily-new-visitors-card h4{
+	line-height: 1;
+	font-weight: 600;
+}
+
+.daily-new-visitors-card p{
+	line-height: 0;
+	font-size: .9em;
+}
+
+.daily-new-visitors-card .card-block{
+	padding-top: 2rem;
+	padding-bottom: 3rem;
+}

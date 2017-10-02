@@ -1,0 +1,26 @@
+.daily-traffic-card {
+	padding: 0;
+	line-height: 0;
+	margin: 0;
+}
+
+.daily-traffic-card .card-header{
+	padding-top: 2rem;
+	background-color: #66cc66;
+	color: #FFFFFF;
+}
+
+.daily-traffic-card h4{
+	line-height: 1;
+	font-weight: 600;
+}
+
+.daily-traffic-card p{
+	line-height: 0;
+	font-size: .9em;
+}
+
+.daily-traffic-card .card-block{
+	padding-top: 2rem;
+	padding-bottom: 3rem;
+}

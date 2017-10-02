@@ -1,0 +1,11 @@
+.daily-stat-row {
+	padding: 0;
+	text-align: left;
+	margin-top: 1rem;
+}
+
+.daily-stat-row .statistics-col {
+	margin-top: 0rem;
+	margin-bottom: 1rem;
+}
+
